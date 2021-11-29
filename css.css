@@ -1,5 +1,5 @@
 * {
-  font-family: "Raleway";
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 #description {
-    font-style: italic;
+  font-style: italic;
 }
 
 #title,
